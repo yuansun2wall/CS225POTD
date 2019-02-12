@@ -6,7 +6,7 @@ int main() {
   // Test 1: An empty list
   Node * head = NULL;
   cout << stringList(head) << endl;
-
+  // Add comment
   // Test 2: A list with exactly one node
   Node * n1 = new Node;
   n1->data_ = 1;
